@@ -1,8 +1,11 @@
 # TheMoonDevs-Task
 
 Note : Have the following variable in the .env file to run the app
+
 MONGO_URL="mongodb+srv://moondevtask:sampledata@cluster0.lqipkzb.mongodb.net/moondevtask"
+
 NEXTAUTH_URL="http://localhost:3000/"
+
 SECRET="awdscwdcwwedcwecwedcwedqwaefwrg"
 
 # TMD: FullStack Intern Assignment
