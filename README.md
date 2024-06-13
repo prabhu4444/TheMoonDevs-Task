@@ -1,5 +1,9 @@
 # TheMoonDevs-Task
 
+## Demo
+
+https://github.com/prabhu4444/TheMoonDevs-Task/assets/61291869/82bbb532-30a0-485c-91e8-c83f09d31a72
+
 Note : Have the following variable in the .env file to run the app
 
 MONGO_URL="mongodb+srv://moondevtask:sampledata@cluster0.lqipkzb.mongodb.net/moondevtask"
@@ -7,8 +11,6 @@ MONGO_URL="mongodb+srv://moondevtask:sampledata@cluster0.lqipkzb.mongodb.net/moo
 NEXTAUTH_URL="http://localhost:3000/"
 
 SECRET="awdscwdcwwedcwecwedcwedqwaefwrg"
-
-# TMD: FullStack Intern Assignment
 
 ## Overview
 
